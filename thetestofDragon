@@ -32,6 +32,12 @@ x26 = "THE TEST OF THE DRAGON have you passed it?"
 x27 = "THE TEST OF THE DRAGON have you passed it?"
 x28 = "I am still alive so yes I've passed it"
 x29 = "End of time"
+y= "Amerika is a mistake"
+y1 = "if relativity theory proves true Deutsch people will call me Deutsch and French will call me cosmopolitan. If relativity theory proves wrong French people will call me Deutsch and Deutsch people Jew"
+y2 = "I believe the use of animals in experiments is an awful idea: they get furstrated and they give wrong anwers"
+y3 = "have faith in progress. It's always right even if it's wrong"
+y4 = "a balanced person is a peson who can do the same mistake twice without losing control"
+
 
 print(bool(x))
 print(bool(x1))
@@ -63,3 +69,8 @@ print("False")
 print(bool(x27))
 print(bool(x28))
 print("False")
+print(bool(y))
+print(bool(y1))
+print(bool(y2))
+print(bool(y3))
+print(bool(y4))
